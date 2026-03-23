@@ -6,6 +6,7 @@ clusters:
     services:
       argocd:
         status: activated
+        dnsName: controlplane-prod.172.19.255.254.traefik.me
         repo:
           https:
             customer:
