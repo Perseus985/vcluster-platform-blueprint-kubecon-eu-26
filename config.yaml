@@ -52,3 +52,4 @@ clusters:
         status: deactivated
       kagent:
         status: deactivated
+      dnsName: controlplane-prod.172.19.255.254.traefik.me
